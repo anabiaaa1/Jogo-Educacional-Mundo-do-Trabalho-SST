@@ -1,4 +1,4 @@
-<img width="384" height="216" alt="GIF_Jogo (3)" src="https://github.com/user-attachments/assets/fb416d28-e969-4a79-94a8-d3394653f35d" />
+<img width="1400" height="300" alt="GIF_Jogo (3)" src="https://github.com/user-attachments/assets/fb416d28-e969-4a79-94a8-d3394653f35d" />
 
 # 👁️ Five Nights At Work
 ### `Cinco noites. Cinco ambientes de trabalho. Suas escolhas podem tornar o turno mais seguro.`
